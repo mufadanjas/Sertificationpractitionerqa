@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03_Verifikasi elemen field username ada</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d84c7424-3d3a-43c4-9e49-130d82a4d752</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC23_Verifikasi halaman overview checkout tampil</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6076df35-5d25-4e24-bd74-a8333219cae6</testCaseGuid>
+</TestCaseEntity>

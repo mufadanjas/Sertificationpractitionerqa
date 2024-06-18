@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC06_Memastikan field username berfungsi</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ea9c698b-ba74-48c4-8de7-9ef9a80775cc</testCaseGuid>
+</TestCaseEntity>

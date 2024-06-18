@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC27_Verifikasi pesan terima kasih tampil</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1025c9b6-8096-4a7e-a16b-5a69422e662b</testCaseGuid>
+</TestCaseEntity>

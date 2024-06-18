@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_User dapat mengakses web sauce demo</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7ab98766-c031-43ca-b7a1-ae6cefae8eec</testCaseGuid>
+</TestCaseEntity>

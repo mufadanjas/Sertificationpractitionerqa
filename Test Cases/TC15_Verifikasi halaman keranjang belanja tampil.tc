@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC15_Verifikasi halaman keranjang belanja tampil</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>46983311-c6ca-480c-8ced-b197cd1b6002</testCaseGuid>
+</TestCaseEntity>

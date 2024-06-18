@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC18_Verifikasi halaman checkout tampil</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d5d70af1-c85f-4511-83c0-b3b901e6f4d5</testCaseGuid>
+</TestCaseEntity>

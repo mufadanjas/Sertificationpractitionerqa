@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC16_Verifikasi keranjang memiliki 1 item</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>22fd9272-4169-4cc6-bf7d-6d1aa37252b4</testCaseGuid>
+</TestCaseEntity>

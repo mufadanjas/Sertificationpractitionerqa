@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC11_Verifikasi tombol tambah ke keranjang</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a3b93561-4d44-4bab-8e16-ef3724955db9</testCaseGuid>
+</TestCaseEntity>

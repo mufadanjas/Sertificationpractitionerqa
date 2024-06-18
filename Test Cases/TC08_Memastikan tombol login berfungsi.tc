@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC08_Memastikan tombol login berfungsi</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d6046627-c995-42dd-955f-c83a3e60526b</testCaseGuid>
+</TestCaseEntity>

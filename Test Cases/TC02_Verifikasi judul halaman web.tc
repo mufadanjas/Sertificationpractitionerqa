@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_Verifikasi judul halaman web</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>61b28672-bea6-4e61-b765-a01ef99bdd08</testCaseGuid>
+</TestCaseEntity>

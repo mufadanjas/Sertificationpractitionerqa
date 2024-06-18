@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC14_Memastikan tombol ikon keranjang belanja berfungsi</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ed6936dd-615c-44aa-ab47-fabd56816556</testCaseGuid>
+</TestCaseEntity>

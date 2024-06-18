@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC19_Memastikan field nama depan checkout form berfungsi</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>661da76d-c459-41c2-8170-1fd5c857328b</testCaseGuid>
+</TestCaseEntity>

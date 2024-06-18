@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC30_User dapat logout dari web sauce demo</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b10dd6d2-e3f3-491c-ab15-9c7463497621</testCaseGuid>
+</TestCaseEntity>

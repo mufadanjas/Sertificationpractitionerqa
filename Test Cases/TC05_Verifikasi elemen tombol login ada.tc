@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC05_Verifikasi elemen tombol login ada</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d7b8e16f-48e3-4807-99a6-91893e7d6bd4</testCaseGuid>
+</TestCaseEntity>

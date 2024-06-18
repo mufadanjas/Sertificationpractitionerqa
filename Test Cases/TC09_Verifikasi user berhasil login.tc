@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC09_Verifikasi user berhasil login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cac0b952-adb6-4e77-97ed-457ca0f7a3d4</testCaseGuid>
+</TestCaseEntity>

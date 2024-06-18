@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC13_Verifikasi badge keranjang belanja diperbarui</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f113868b-84d8-45d7-84f5-6b583d221284</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC12_Memastikan tombol tambah ke keranjang berfungsi</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>101ccf95-8035-445a-a1a7-d06c25ab1718</testCaseGuid>
+</TestCaseEntity>

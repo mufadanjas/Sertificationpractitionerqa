@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC26_Verifikasi halaman konfirmasi pesanan tampil</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>221c330a-622e-4ef3-8c15-97c58cc6e42f</testCaseGuid>
+</TestCaseEntity>

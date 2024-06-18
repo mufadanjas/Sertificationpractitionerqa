@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC21_Memastikan field kode pos checkout form berfungsi</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e3cb60a3-36ee-4e26-b4a9-d7322f5291f4</testCaseGuid>
+</TestCaseEntity>
